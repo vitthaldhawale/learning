@@ -1,3 +1,3 @@
 # learning
 <br>
-hey there i am learnning github effectively 
+hey there i am learnning github effectively (in vs code editor)
